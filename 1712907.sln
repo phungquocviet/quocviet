@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1712907_BT2", "1712907_BT2\1712907_BT2.vcxproj", "{FCF972EB-5316-410C-BB76-BD85EECF0A76}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1712907_BT1", "1712907_BT1\1712907_BT1.vcxproj", "{62606CAE-7EF5-4AA2-B86B-E0A4E289523F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{169BA375-7A15-48F7-B1F0-3964FCD4B31C}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF972EB-5316-410C-BB76-BD85EECF0A76}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FCF972EB-5316-410C-BB76-BD85EECF0A76}.Debug|Win32.Build.0 = Debug|Win32
+		{FCF972EB-5316-410C-BB76-BD85EECF0A76}.Release|Win32.ActiveCfg = Release|Win32
+		{FCF972EB-5316-410C-BB76-BD85EECF0A76}.Release|Win32.Build.0 = Release|Win32
+		{62606CAE-7EF5-4AA2-B86B-E0A4E289523F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62606CAE-7EF5-4AA2-B86B-E0A4E289523F}.Debug|Win32.Build.0 = Debug|Win32
+		{62606CAE-7EF5-4AA2-B86B-E0A4E289523F}.Release|Win32.ActiveCfg = Release|Win32
+		{62606CAE-7EF5-4AA2-B86B-E0A4E289523F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
