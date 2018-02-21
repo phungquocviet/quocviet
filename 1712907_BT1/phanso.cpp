@@ -1,4 +1,4 @@
-#include "phanso.h"
+#include "phanso.h" //phungquocviet
 void nhapphanso(ps &a)
 {
 	printf("Nhap tu so: ");
